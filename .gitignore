@@ -1,4 +1,15 @@
-original-data
+#original_data/
+books3/
+doc2vec_models/
+initial_data/
+initial_experiments/
+
+nohup.out
+test.ipynb
+driver.py
+
+data.csv
+tfidf*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
