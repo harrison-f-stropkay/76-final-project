@@ -3,6 +3,7 @@ books3/
 doc2vec_models/
 initial_data/
 initial_experiments/
+preliminary/
 
 nohup.out
 test.ipynb
