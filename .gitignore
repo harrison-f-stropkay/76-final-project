@@ -10,6 +10,7 @@ driver.py
 
 data.csv
 tfidf*.csv
+tfidf_text_model.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
